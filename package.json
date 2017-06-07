@@ -1,0 +1,21 @@
+{
+  "name": "cpp_average_val",
+  "version": "1.0.0",
+  "description": "native node module for async average values.",
+  "main": "index.js",
+  "scripts": {
+    "configure": "node-gyp configure",
+    "install": "node-gyp rebuild"
+  },
+  "author": "Alexander Leon",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "2.6.2"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "performance-now": "^2.1.0"
+  }
+}
