@@ -17,5 +17,19 @@
   "devDependencies": {
     "chai": "^4.0.2",
     "performance-now": "^2.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alien35/cpp_average.git"
+  },
+  "keywords": [
+    "cpp",
+    "average",
+    "calculator",
+    "native"
+  ],
+  "bugs": {
+    "url": "https://github.com/alien35/cpp_average/issues"
+  },
+  "homepage": "https://github.com/alien35/cpp_average#readme"
 }
